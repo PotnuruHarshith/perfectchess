@@ -1,0 +1,66 @@
+{
+  "openings": [
+    {
+      "name": "Ruy Lopez",
+      "variations": [
+        {
+          "name": "Main Line",
+          "moves": [
+            { "san": "e4", "quality": "best", "sound": "normal" },
+            { "san": "e5", "quality": "book", "sound": "normal" },
+            { "san": "Nf3", "quality": "good", "sound": "normal" },
+            { "san": "Nc6", "quality": "book", "sound": "normal" },
+            { "san": "Bb5", "quality": "brilliant", "sound": "checkmate" }
+          ]
+        },
+        {
+          "name": "Exchange Variation",
+          "moves": [
+            { "san": "e4", "quality": "best", "sound": "normal" },
+            { "san": "e5", "quality": "book", "sound": "normal" },
+            { "san": "Nf3", "quality": "good", "sound": "normal" },
+            { "san": "Nc6", "quality": "book", "sound": "normal" },
+            { "san": "Bb5", "quality": "brilliant", "sound": "brilliant" },
+            { "san": "a6", "quality": "inaccuracy", "sound": "normal" },
+            { "san": "Bxc6", "quality": "great", "sound": "capture" }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sicilian Defense",
+      "variations": [
+        {
+          "name": "Najdorf",
+          "moves": [
+            { "san": "e4", "quality": "best", "sound": "normal" },
+            { "san": "c5", "quality": "book", "sound": "normal" },
+            { "san": "Nf3", "quality": "good", "sound": "normal" },
+            { "san": "d6", "quality": "book", "sound": "normal" },
+            { "san": "d4", "quality": "excellent", "sound": "capture" },
+            { "san": "cxd4", "quality": "book", "sound": "capture" },
+            { "san": "Nxd4", "quality": "great", "sound": "capture" },
+            { "san": "Nf6", "quality": "book", "sound": "normal" },
+            { "san": "Nc3", "quality": "good", "sound": "normal" },
+            { "san": "a6", "quality": "best", "sound": "normal" }
+          ]
+        },
+        {
+          "name": "Classical",
+          "moves": [
+            { "san": "e4", "quality": "best", "sound": "normal" },
+            { "san": "c5", "quality": "book", "sound": "normal" },
+            { "san": "Nf3", "quality": "good", "sound": "normal" },
+            { "san": "Nc6", "quality": "book", "sound": "normal" },
+            { "san": "d4", "quality": "excellent", "sound": "capture" },
+            { "san": "cxd4", "quality": "book", "sound": "capture" },
+            { "san": "Nxd4", "quality": "great", "sound": "capture" },
+            { "san": "Nf6", "quality": "book", "sound": "normal" },
+            { "san": "Nc3", "quality": "good", "sound": "normal" },
+            { "san": "d6", "quality": "best", "sound": "normal" }
+          ]
+        }
+      ]
+    }
+  ]
+}
